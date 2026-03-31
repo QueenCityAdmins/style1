@@ -1,6 +1,6 @@
 .forum-card:has(a.forumtitle[href*="f7-come-as-you-are"]) .forum-big-image {
 background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/invite11.png')
 }
-.forum-card:has(a.forumtitle[href*="f8-recherche-de-liens"]) .forum-big-image {
+.forum-card:has(a.forumtitle[href*="f2-backstage-pass"]) .forum-big-image {
 background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/invite11.png')
 }
