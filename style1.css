@@ -1,0 +1,319 @@
+.forum-card:has(a.forumtitle[href*="f1-purple-haze"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/prefac10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f3-annexes"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/annexe10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f4-crosstown-traffic"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/pannea10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f5-nouveautes"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/nouvea10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f6-absences"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/abcenc10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f7-come-as-you-are"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/invite12.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f8-recherche-de-liens"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/recher10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f9-partenariats"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/parten10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f82-soutenir-le-forum"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/souten10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f2-backstage-pass"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/pliens10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f10-familiaux"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/family10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f11-amicaux"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/amicau10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f12-ambigus"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/ambigu10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f13-divers"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/divers10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f75-pris"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/pris10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f76-en-construction"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/en_con10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f14-about-a-girl"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/presen10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f15-fiches-validees"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/presen11.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f16-little-wing"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/gestio10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f17-fiches-de-liens"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/fiche_10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f18-bottins-des-personnages"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/bottin10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f20-demandes"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/demand10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f23-integration"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/intzog10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f19-boutique"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/boutiq10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f21-downtown"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/tm/00116.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f27-nordstrom-shore"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/tm/00211.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f28-central-library"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/00315.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f37-benaroya-hall"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/00413.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f38-pike-place-market"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/00511.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f40-experience-music-project"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/00611.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f49-waterfront"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/00711.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f46-madison-avenue"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/00811.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f41-harborview-medical-center"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/00912.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f55-habitations"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01010.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f22-belltown"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01110.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f42-sculpture-park"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01210.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f43-the-belltown-inn"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01310.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f39-space-needle"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01410.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f44-havana-club"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01510.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f45-see-sound-lounge"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01610.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f51-elliot-bay"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01710.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f48-underground-seattle"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01810.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f56-habitations"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/01910.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f24-queen-anne-green-lake"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/02210.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f50-the-sitting-room"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/02310.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f52-green-lake"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/02410.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f53-washington-park"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/02510.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f47-pioneer-place"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/02610.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f57-habitations"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/02810.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f54-seattle-university"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/02710.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f25-fremont"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/02910.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f58-aurora-bridge"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03010.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f59-fremont-street"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03110.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f60-fremont-troll"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03210.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f61-outdoor-movie-theater"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03310.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f62-skyline-mag"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03410.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f63-seattle-opera"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03510.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f64-archie-s-mcphee-s-records"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03610.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f69-habitations"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03710.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f26-capitol-hill"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03810.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f65-the-vogue"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/03910.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f66-block-party"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/04010.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f67-pacific-place-center"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/04110.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f68-tacoma-airport"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/04210.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f70-elysian-brewing-company"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/04310.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f71-melrose-market"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/04410.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f72-broadway"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/04510.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f73-habitations"]) .forum-big-image {
+background-image:url('https://i.servimg.com/u/f55/11/22/09/87/04610.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f31-le-reste-du-monde"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/reste_10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f29-hey-joe"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/hey_jo10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f30-streaming-room"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/stremi10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f32-stories-likes"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/storie10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f34-bold-as-love"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/bold_a10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f33-jam-session"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/jam_se10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f77-games"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/jeux10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f78-flood"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/flood10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f79-flood-de-groupes"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/flood_10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f36-in-bloom"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/in_blo10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f35-all-apologies"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/archiv10.png')
+}
+
+.forum-card:has(a.forumtitle[href*="f80-galeries-des-membres"]) .forum-big-image {
+background-image:url('https://i55.servimg.com/u/f55/11/22/09/87/galeri10.png')
+}
